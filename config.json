@@ -1,0 +1,76 @@
+{
+	"TOKEN": "",
+	"CLIENT_ID": "",
+	"GUILD_ID": "",
+	"LOGO_URL": "https://i.imgur.com/mMA8gof.png",
+	"LOGO_COLOR": "FB4404",
+	"ACTIVITIES_WATCHING": [
+		"Destiny 2",
+		"Destiny 1",
+		"Destiny 3?",
+		"the Black Garden",
+		"Stasis Crucible Matches",
+		"Witch Queen",
+		"everything"
+	],
+	"COOLDOWNS": {
+		"join": 60,
+		"share": 60,
+		"register": 360,
+		"unregister": 360,
+		"help": null,
+		"stats": null,
+		"locations": null,
+		"status_change": 20,
+		"checkpoint": 10
+	},
+	"DATABASE_SETTINGS": {
+		"host": "",
+		"user": "",
+		"password": "",
+		"database": "",
+		"waitForConnections": true,
+		"connectionLimit": 10,
+		"queueLimit": 0,
+		"port": "",
+		"timezone": "+00:00"
+	},
+	"ADMINS": [],
+	"BUNGIE_API": {
+		"KEY": "",
+		"CLIENT_ID": null,
+		"CLIENT_SECRET": ""
+	},
+	"LOCATIONS": [
+		{
+			"hash": 2582501063,
+			"name": "Pit of Heresy: Zulmak",
+			"id": "zulmak",
+			"enabled": true
+		},
+		{
+			"hash": 2032534090,
+			"name": "Shattered Throne: Dul Incaru",
+			"id": "dulincaru",
+			"enabled": true
+		},
+		{
+			"hash": 1077850348,
+			"name": "Prophecy: Kellecho",
+			"id": "kellecho",
+			"enabled": true
+		},
+		{
+			"hash": 4078656646,
+			"name": "Grasp of Avarice: Captain Avarokk - Legendary",
+			"id": "captainavarokk",
+			"enabled": true
+		},
+		{
+			"hash": 3774021532,
+			"name": "Grasp of Avarice: Captain Avarokk - Master",
+			"id": "mastercaptainavarokk",
+			"enabled": true
+		}
+	]
+}
